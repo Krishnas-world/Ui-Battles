@@ -28,7 +28,7 @@ Clone a Figma design as accurately as possible using only **HTML**, **CSS (or CS
 
 ### **Scoring**
 - The score from this round will carry **70% weightage** towards the final result.
-==================================================================================================================================================
+
 1. Clone the repository:
    git clone <repository-url>
    
@@ -36,10 +36,10 @@ Clone a Figma design as accurately as possible using only **HTML**, **CSS (or CS
 
 cd uibattles/[GroupNameGroupNo.]
 
-=================================================================================================================
-Contact
-For queries or further details about the event, contact:
 
-Organizer: Nishan
+### **Contact**
+**For queries or further details about the event, contact:**
+
+co-ordinator: Nishan
 Email: nishankulal424@gmail.com
 
